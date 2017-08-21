@@ -1,0 +1,6 @@
+framework module Pods_Hivecast {
+  umbrella header "Pods-Hivecast-umbrella.h"
+
+  export *
+  module * { export * }
+}
